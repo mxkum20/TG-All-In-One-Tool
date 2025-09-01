@@ -1,10 +1,9 @@
 # Tg-Tools2025
 TG Tool with many features up to date in 2025. Check out the picture for all the functions.
 
-#### GET PROGRAM HERE: https://shorturl.at/zneuT
-YOUTUBE VIDEO: https://shorturl.at/4kXXd
+#### GET PROGRAM HERE: https://shorturl.at/mk39N
 
-Feel free to contact us for any questions: https://shorturl.at/t0AKu
+Feel free to contact us for any questions: https://shorturl.at/lfuSz
 
 <img src='UI1.png' width='450'>
 
@@ -37,10 +36,9 @@ Feel free to contact us for any questions: https://shorturl.at/t0AKu
 NEW FEATURES WILL BE IMPLEMENTED AT WISH!
 If you have any questions, make sure to contact us.
 
-#### GET PROGRAM HERE: https://shorturl.at/zneuT
-YOUTUBE VIDEO: https://shorturl.at/4kXXd
+#### GET PROGRAM HERE: https://shorturl.at/mk39N
 
-Feel free to contact us for any questions: https://shorturl.at/t0AKu
+Feel free to contact us for any questions: https://shorturl.at/lfuSz
 
 <a href="https://github.com/CallToSta/TG-2025"><img alt="Cute Count" src="https://count.getloli.com/get/@Tools4TG9?theme=asoul" /></a>
 
