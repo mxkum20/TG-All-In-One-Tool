@@ -1,8 +1,8 @@
 # Tg-Tools2025
 TG Tool with many features up to date in 2025. Check out the picture for all the functions
 
-#### ([GET PROGRAM HERE](https://shorturl.at/mk39N))
-([Feel free to contact us](https://shorturl.at/lfuSz))
+#### [GET PROGRAM HERE](https://shorturl.at/mk39N)
+[Feel free to contact us](https://shorturl.at/lfuSz)
 
 <img src='UI1.png' width='450'>
 
@@ -34,6 +34,6 @@ TG Tool with many features up to date in 2025. Check out the picture for all the
 
 NEW FEATURES WILL BE IMPLEMENTED AT WISH!
 
-#### ([GET PROGRAM HERE](https://shorturl.at/mk39N))
-([Feel free to contact us](https://shorturl.at/lfuSz))
+#### [GET PROGRAM HERE](https://shorturl.at/mk39N)
+[Feel free to contact us](https://shorturl.at/lfuSz)
 
