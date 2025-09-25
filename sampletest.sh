@@ -13,6 +13,7 @@ echo "======log directory path is ======"
 pwd;
 echo "====server name is ========="
 hostname;
+uptime
 echo "====end of the file details"
 $q
 $p
